@@ -1,0 +1,5 @@
+/home/q/CLionProjects/ba/cmake-build-debug/CMakeFiles/pose_estimation_3d2d.dir
+/home/q/CLionProjects/ba/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/q/CLionProjects/ba/cmake-build-debug/CMakeFiles/ba.dir
+/home/q/CLionProjects/ba/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/q/CLionProjects/ba/cmake-build-debug/CMakeFiles/pose_estimation_2d_2d.dir

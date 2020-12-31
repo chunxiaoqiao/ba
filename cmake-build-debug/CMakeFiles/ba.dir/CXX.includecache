@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/q/CLionProjects/ba/main_ba.cpp
+iostream
+-
+opencv2/highgui/highgui.hpp
+-
+opencv2/features2d/features2d.hpp
+-
+chrono
+-
+
